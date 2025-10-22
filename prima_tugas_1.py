@@ -1,3 +1,5 @@
+# MENENTUKAN BILANGAN PRIMA
+
 n = int(input("Masukkan bilangan: "))
 
 prima = True

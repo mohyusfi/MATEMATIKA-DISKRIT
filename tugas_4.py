@@ -1,16 +1,18 @@
+# menentukan hari
+
 hari_ini = int(input("Hari Ke: "))
 
 if(hari_ini == 1):
-    print("saya akan kuliah")
+    print("ini hari senin")
 elif(hari_ini == 2):
-    print("saya akan kuliah")
+    print("ini hari selasa")
 elif(hari_ini == 3):
-    print(4)
+    print("ini hari rabu")
 elif(hari_ini == 5):
-    print("saya akan kuliah")
+    print("ini hari jumat")
 elif(hari_ini == 6):
-    print("saya akan binling")
+    print("ini hari sabtu")
 elif(hari_ini == 7):
-    print("saya akan tidur")
+    print("ini hari minggu")
 else:
     print("Hari tidak di termukan")
