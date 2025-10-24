@@ -1,6 +1,6 @@
-namaDepan = "Yusfi"
-namaBelakang = "Lakhafidun"
+namaDepan = "jumi"
+namaBelakang = "ati"
 nama = namaDepan + " " + namaBelakang
 umur = 18
-hobi = "Coding"
+hobi = "Motor"
 print ("Biodata\n", nama, "\n", umur, "\n", hobi)

@@ -1,4 +1,4 @@
-namaDepan = "yusfi"
-namaBelakang = "Lakhafidun"
+namaDepan = "jumi"
+namaBelakang = "ati"
 
 print(f"nama saya {namaDepan} {namaBelakang}")
